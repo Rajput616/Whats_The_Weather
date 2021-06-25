@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alice</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/antic_didone</item>
+        <item>@font/arbutus</item>
+        <item>@font/cinzel_decorative</item>
+        <item>@font/crete_round</item>
+        <item>@font/montserrat_subrayada</item>
+    </array>
+</resources>
